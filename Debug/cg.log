@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\6th Semestre\CG\Lab\Proj\cg\main.cpp(117,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\6th Semestre\CG\Lab\Proj\cg\main.cpp(117,37): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\6th Semestre\CG\Lab\Proj\cg\main.cpp(154,23): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\6th Semestre\CG\Lab\Proj\cg\main.cpp(154,29): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\6th Semestre\CG\Lab\Proj\cg\main.cpp(154,46): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\6th Semestre\CG\Lab\Proj\cg\main.cpp(154,56): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+D:\6th Semestre\CG\Lab\Proj\cg\main.cpp(189,20): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\6th Semestre\CG\Lab\Proj\cg\main.cpp(189,32): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+  cg.vcxproj -> D:\6th Semestre\CG\Lab\Proj\cg\Debug\cg.exe
